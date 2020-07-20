@@ -3,3 +3,22 @@
 
 /* Place any CSS rules you want to apply on both iOS and Android here.
 This is where the vast majority of your CSS code goes. */
+
+
+
+.btn {
+    background-color: purple;
+    border-radius: 30%;
+    color: white;
+    border-color: purple;
+    margin: 5 0;
+    padding: 5 10;
+    font-size: 15;
+    font-weight: bold;
+    height: 10;
+
+}
+
+GridLayout {
+    margin: 10;
+}
